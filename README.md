@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @WandscheerGuh07
-- 👀 I’m interested in estudar,jogar bola e arrumar um emprego
-- 🌱 I’m currently learning no tancredo
-- 💞️ I’m looking to collaborate on com o colegio 
-- 📫 How to reach me gustavo.wandscheer@escola.pr.gov.br
+-  oi, eu sou @WandscheerGuh07
+-  eu me interesso por estudar,jogar bola e arrumar um emprego
+- atualmente estou aprendendo a faze sites
+- pode me achar nesse email gustavo.wandscheer@escola.pr.gov.br
 
 <!---
 WandscheerGuh07/WandscheerGuh07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
